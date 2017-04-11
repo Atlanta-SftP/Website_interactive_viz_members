@@ -1,0 +1,10 @@
+body {
+  overflow:hidden;
+   margin:0;
+   background-color: #fff;
+}
+
+text {
+  font-family: 'Averia Serif Libre';
+  pointer-events: none;
+}
