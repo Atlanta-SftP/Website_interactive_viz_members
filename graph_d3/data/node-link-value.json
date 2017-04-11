@@ -1,0 +1,449 @@
+{
+  "directed": false, 
+  "graph": {}, 
+  "nodes": [
+    {
+      "id": 0, 
+      "type": "circle", 
+      "name": "Heather Saul", 
+      "img": "https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png", 
+      "size": 100
+    }, 
+    {
+      "id": 1, 
+      "type": "circle", 
+      "name": "David Hofmann", 
+      "img": "https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png", 
+      "size": 100
+    }, 
+    {
+      "id": 2, 
+      "type": "circle", 
+      "name": "Rosa Romero", 
+      "img": "https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png", 
+      "size": 100
+    }, 
+    {
+      "id": 3, 
+      "type": "circle", 
+      "name": "Frank Bove", 
+      "img": "https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png", 
+      "size": 100
+    }, 
+    {
+      "id": 4, 
+      "type": "circle", 
+      "name": "Yacin Nadji", 
+      "img": "https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png", 
+      "size": 100
+    }, 
+    {
+      "id": 5, 
+      "type": "circle", 
+      "name": "David Nicholson", 
+      "img": "https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png", 
+      "size": 100
+    }, 
+    {
+      "id": 6, 
+      "type": "circle", 
+      "name": "Guga Gogia", 
+      "img": "https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png", 
+      "size": 100
+    }, 
+    {
+      "id": 7, 
+      "type": "circle", 
+      "name": "Katherine Bryant", 
+      "img": "https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png", 
+      "size": 100
+    }, 
+    {
+      "id": 8, 
+      "type": "circle", 
+      "name": "Mike Winters", 
+      "img": "https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png", 
+      "size": 100
+    }, 
+    {
+      "id": 9, 
+      "type": "circle", 
+      "name": "Robert Pienta", 
+      "img": "https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png", 
+      "size": 100
+    }, 
+    {
+      "id": 10, 
+      "type": "circle", 
+      "name": "Chelsea Dunn", 
+      "img": "https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png", 
+      "size": 100
+    }, 
+    {
+      "id": 11, 
+      "type": "circle", 
+      "name": "Sucheta Ghoshal", 
+      "img": "https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png", 
+      "size": 100
+    }, 
+    {
+      "id": 12, 
+      "type": "square", 
+      "name": "Public Health", 
+      "img": "https://dl.dropboxusercontent.com/s/0corv5iu8fzfdp2/health.png", 
+      "size": 200
+    }, 
+    {
+      "id": 13, 
+      "type": "square", 
+      "name": "Participatory Design", 
+      "img": "https://dl.dropboxusercontent.com/s/4a6ki1ww2wilgub/participatory%20design.png", 
+      "size": 200
+    }, 
+    {
+      "id": 16, 
+      "type": "square", 
+      "name": "Computer Security", 
+      "img": "https://dl.dropboxusercontent.com/s/zic16t3zmaf3d9y/cybersecurity.png", 
+      "size": 200
+    }, 
+    {
+      "id": 17, 
+      "type": "square", 
+      "name": "Data Analysis", 
+      "img": "null", 
+      "size": 300
+    }, 
+    {
+      "id": 18, 
+      "type": "square", 
+      "name": "Machine Learning", 
+      "img": "null", 
+      "size": 300
+    }, 
+    {
+      "id": 19, 
+      "type": "square", 
+      "name": "Programming", 
+      "img": "null", 
+      "size": 300
+    }, 
+    {
+      "id": 20, 
+      "type": "square", 
+      "name": "Teaching", 
+      "img": "null", 
+      "size": 500
+    }, 
+    {
+      "id": 21, 
+      "type": "square", 
+      "name": "Open Science", 
+      "img": "null", 
+      "size": 500
+    }, 
+    {
+      "id": 22, 
+      "type": "square", 
+      "name": "Physics", 
+      "img": "https://dl.dropboxusercontent.com/s/ix18ur82joeny46/physics.png", 
+      "size": 500
+    }, 
+    {
+      "id": 23, 
+      "type": "square", 
+      "name": "Neuroscience", 
+      "img": "https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png", 
+      "size": 500
+    }, 
+    {
+      "id": 24, 
+      "type": "square", 
+      "name": "Environmental Justice", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 25, 
+      "type": "square", 
+      "name": "Health activities", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 26, 
+      "type": "square", 
+      "name": "CDC", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 28, 
+      "type": "square", 
+      "name": "Web Design", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 29, 
+      "type": "square", 
+      "name": "Biochemistry", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 30, 
+      "type": "square", 
+      "name": "Research", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 31, 
+      "type": "square", 
+      "name": "Anthropology", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 32, 
+      "type": "square", 
+      "name": "Women & Gender studies", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 33, 
+      "type": "square", 
+      "name": "Atlanta March for Science", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 34, 
+      "type": "square", 
+      "name": "Academic Freedom", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 35, 
+      "type": "square", 
+      "name": "Women in Science", 
+      "img": "null", 
+      "size": 300
+    }, 
+    {
+      "id": 36, 
+      "type": "square", 
+      "name": "Data Visualization", 
+      "img": "https://dl.dropboxusercontent.com/s/a53db26b6q8wpgp/dataviz.png", 
+      "size": 300
+    }, 
+    {
+      "id": 37, 
+      "type": "square", 
+      "name": "Activism", 
+      "img": "https://dl.dropboxusercontent.com/s/15lw5gxinmfcgri/activism.png", 
+      "size": 200
+    }, 
+    {
+      "id": 38, 
+      "type": "square", 
+      "name": "Social Justice", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 39, 
+      "type": "square", 
+      "name": "Social Computing", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 40, 
+      "type": "square", 
+      "name": "Piano", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 41, 
+      "type": "square", 
+      "name": "Liberal Arts", 
+      "img": "null", 
+      "size": 200
+    }, 
+    {
+      "id": 42, 
+      "type": "square", 
+      "name": "Sonification", 
+      "img": "null", 
+      "size": 200
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 12
+    }, 
+    {
+      "source": 0, 
+      "target": 13
+    }, 
+    {
+      "source": 1, 
+      "target": 15
+    }, 
+    {
+      "source": 1, 
+      "target": 18
+    }, 
+    {
+      "source": 1, 
+      "target": 19
+    }, 
+    {
+      "source": 1, 
+      "target": 20
+    }, 
+    {
+      "source": 1, 
+      "target": 21
+    }, 
+    {
+      "source": 2, 
+      "target": 17
+    }, 
+    {
+      "source": 2, 
+      "target": 18
+    }, 
+    {
+      "source": 2, 
+      "target": 32
+    }, 
+    {
+      "source": 2, 
+      "target": 33
+    }, 
+    {
+      "source": 3, 
+      "target": 22
+    }, 
+    {
+      "source": 3, 
+      "target": 23
+    }, 
+    {
+      "source": 3, 
+      "target": 24
+    }, 
+    {
+      "source": 4, 
+      "target": 14
+    }, 
+    {
+      "source": 4, 
+      "target": 15
+    }, 
+    {
+      "source": 4, 
+      "target": 16
+    }, 
+    {
+      "source": 4, 
+      "target": 17
+    }, 
+    {
+      "source": 4, 
+      "target": 18
+    }, 
+    {
+      "source": 4, 
+      "target": 19
+    }, 
+    {
+      "source": 6, 
+      "target": 18
+    }, 
+    {
+      "source": 6, 
+      "target": 20
+    }, 
+    {
+      "source": 7, 
+      "target": 29
+    }, 
+    {
+      "source": 7, 
+      "target": 30
+    }, 
+    {
+      "source": 7, 
+      "target": 31
+    }, 
+    {
+      "source": 7, 
+      "target": 32
+    }, 
+    {
+      "source": 7, 
+      "target": 28
+    }, 
+    {
+      "source": 8, 
+      "target": 37
+    }, 
+    {
+      "source": 8, 
+      "target": 38
+    }, 
+    {
+      "source": 8, 
+      "target": 39
+    }, 
+    {
+      "source": 8, 
+      "target": 20
+    }, 
+    {
+      "source": 9, 
+      "target": 15
+    }, 
+    {
+      "source": 9, 
+      "target": 16
+    }, 
+    {
+      "source": 9, 
+      "target": 25
+    }, 
+    {
+      "source": 9, 
+      "target": 33
+    }, 
+    {
+      "source": 10, 
+      "target": 26
+    }, 
+    {
+      "source": 10, 
+      "target": 27
+    }, 
+    {
+      "source": 11, 
+      "target": 34
+    }, 
+    {
+      "source": 11, 
+      "target": 35
+    }, 
+    {
+      "source": 11, 
+      "target": 36
+    }
+  ], 
+  "multigraph": false
+}

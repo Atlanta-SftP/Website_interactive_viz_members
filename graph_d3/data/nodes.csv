@@ -1,0 +1,41 @@
+id,name,type,img,score,size
+0,Heather Saul,circle,https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png,100
+1,David Hofmann,circle,https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png,100
+2,Rosa Romero,circle,https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png,100
+3,Frank Bove,circle,https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png,100
+4,Yacin Nadji,circle,https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png,100
+5,David Nicholson,circle,https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png,100
+6,Guga Gogia,circle,https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png,100
+7,Katherine Bryant,circle,https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png,100
+8,Mike Winters,circle,https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png,100
+9,Robert Pienta,circle,https://dl.dropboxusercontent.com/s/077wutykczoe2on/1491292592_user_male4.png,100
+10,Chelsea Dunn,circle,https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png,100
+11,Sucheta Ghoshal,circle,https://dl.dropboxusercontent.com/s/bhgtkcl7l0nd9lx/1491292633_user_female2.png,100
+12,Public Health,square,https://dl.dropboxusercontent.com/s/0corv5iu8fzfdp2/health.png,200
+13,Participatory Design,square,https://dl.dropboxusercontent.com/s/4a6ki1ww2wilgub/participatory%20design.png,200
+16,Computer Security,square,https://dl.dropboxusercontent.com/s/zic16t3zmaf3d9y/cybersecurity.png,200
+17,Data Analysis,square,null,300
+18,Machine Learning,square,null,300
+19,Programming,square,null,300
+20,Teaching,square,null,500
+21,Open Science,square,null,500
+22,Physics,square,https://dl.dropboxusercontent.com/s/ix18ur82joeny46/physics.png,500
+23,Neuroscience,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,500
+24,Environmental Justice,square,null,200
+25,Health activities,square,null,200
+26,CDC,square,null,200
+28,Web Design,square,null,200
+29,Biochemistry,square,null,200
+30,Research,square,null,200
+31,Anthropology,square,null,200
+32,Women & Gender studies,square,null,200
+33,Atlanta March for Science,square,null,200
+34,Academic Freedom,square,null,200
+35,Women in Science,square,null,300
+36,Data Visualization,square,https://dl.dropboxusercontent.com/s/a53db26b6q8wpgp/dataviz.png,300
+37,Activism,square,https://dl.dropboxusercontent.com/s/15lw5gxinmfcgri/activism.png,200
+38,Social Justice,square,null,200
+39,Social Computing,square,null,200
+40,Piano,square,null,200
+41,Liberal Arts,square,null,200
+42,Sonification,square,null,200
