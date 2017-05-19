@@ -14,28 +14,28 @@ id,name,type,img,score,size
 12,Public Health,square,https://dl.dropboxusercontent.com/s/0corv5iu8fzfdp2/health.png,200
 13,Participatory Design,square,https://dl.dropboxusercontent.com/s/4a6ki1ww2wilgub/participatory%20design.png,200
 16,Computer Security,square,https://dl.dropboxusercontent.com/s/zic16t3zmaf3d9y/cybersecurity.png,200
-17,Data Analysis,square,null,300
-18,Machine Learning,square,null,300
-19,Programming,square,null,300
-20,Teaching,square,null,500
-21,Open Science,square,null,500
-22,Physics,square,https://dl.dropboxusercontent.com/s/ix18ur82joeny46/physics.png,500
-23,Neuroscience,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,500
-24,Environmental Justice,square,null,200
-25,Health activities,square,null,200
-26,CDC,square,null,200
-28,Web Design,square,null,200
-29,Biochemistry,square,null,200
-30,Research,square,null,200
-31,Anthropology,square,null,200
-32,Women & Gender studies,square,null,200
-33,Atlanta March for Science,square,null,200
-34,Academic Freedom,square,null,200
-35,Women in Science,square,null,300
-36,Data Visualization,square,https://dl.dropboxusercontent.com/s/a53db26b6q8wpgp/dataviz.png,300
+17,Data Analysis,square,null,200
+18,Machine Learning,square,null,200
+19,Programming,square,null,200
+20,Teaching,square,null,200
+21,Open Science,square,null,200
+22,Physics,square,https://dl.dropboxusercontent.com/s/ix18ur82joeny46/physics.png,200
+23,Neuroscience,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+24,Environmental Justice,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+25,Health activities,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+26,CDC,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+28,Web Design,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+29,Biochemistry,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+30,Research,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+31,Anthropology,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+32,Women & Gender studies,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+33,Atlanta March for Science,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+34,Academic Freedom,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+35,Women in Science,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+36,Data Visualization,square,https://dl.dropboxusercontent.com/s/a53db26b6q8wpgp/dataviz.png,200
 37,Activism,square,https://dl.dropboxusercontent.com/s/15lw5gxinmfcgri/activism.png,200
-38,Social Justice,square,null,200
-39,Social Computing,square,null,200
-40,Piano,square,null,200
-41,Liberal Arts,square,null,200
-42,Sonification,square,null,200
+38,Social Justice,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+39,Social Computing,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+40,Piano,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+41,Liberal Arts,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200
+42,Sonification,square,https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png,200

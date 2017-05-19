@@ -36,7 +36,7 @@ var outline = false;
 
 var color = d3.scale.ordinal()
    .domain(["square", "circle"])
-   .range(["#96281B", "#ecf0f1"]);
+   .range(["#DADFE1", "#ecf0f1"]);
 
 var highlight_color = "#D35400";
 var highlight_trans = 0.1;
@@ -63,7 +63,7 @@ var nominal_stroke = 4.5;
 var max_stroke = 4.5;
 var max_base_node_size = 36;
 var min_zoom = 0.1;
-var max_zoom = 5;
+var max_zoom = 2;
 var zoom = d3.behavior.zoom().scaleExtent([min_zoom,max_zoom])
 var svg = d3.select("body").append("svg");
 var g = svg.append("g");
@@ -166,10 +166,7 @@ var linkedByIndex = {};
 
 node.append("image")
    .attr("xlink:href", function(d){
-   		if (d.type == "circle") {
    			return d.img;
-   		}
-
    })
        .attr("x", -20)
        .attr("y", -20)

@@ -112,49 +112,49 @@
       "type": "square", 
       "name": "Data Analysis", 
       "img": "null", 
-      "size": 300
+      "size": 200
     }, 
     {
       "id": 18, 
       "type": "square", 
       "name": "Machine Learning", 
       "img": "null", 
-      "size": 300
+      "size": 200
     }, 
     {
       "id": 19, 
       "type": "square", 
       "name": "Programming", 
       "img": "null", 
-      "size": 300
+      "size": 200
     }, 
     {
       "id": 20, 
       "type": "square", 
       "name": "Teaching", 
       "img": "null", 
-      "size": 500
+      "size": 200
     }, 
     {
       "id": 21, 
       "type": "square", 
       "name": "Open Science", 
       "img": "null", 
-      "size": 500
+      "size": 200
     }, 
     {
       "id": 22, 
       "type": "square", 
       "name": "Physics", 
       "img": "https://dl.dropboxusercontent.com/s/ix18ur82joeny46/physics.png", 
-      "size": 500
+      "size": 200
     }, 
     {
       "id": 23, 
       "type": "square", 
       "name": "Neuroscience", 
       "img": "https://dl.dropboxusercontent.com/s/1x17mlgriz7h4tw/neuroscience.png", 
-      "size": 500
+      "size": 200
     }, 
     {
       "id": 24, 
@@ -231,14 +231,14 @@
       "type": "square", 
       "name": "Women in Science", 
       "img": "null", 
-      "size": 300
+      "size": 200
     }, 
     {
       "id": 36, 
       "type": "square", 
       "name": "Data Visualization", 
       "img": "https://dl.dropboxusercontent.com/s/a53db26b6q8wpgp/dataviz.png", 
-      "size": 300
+      "size": 200
     }, 
     {
       "id": 37, 
